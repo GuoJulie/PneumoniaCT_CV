@@ -1,0 +1,15 @@
+scikit-learn-1.5.1
+tqdm-4.66.5
+SimpleITK-2.4.0
+matplotlib-3.9.2
+numpy-1.26.4
+scipy-1.14.1
+Pillow-10.4.0
+scikit-image-0.24.0
+
+ultralytics-8.2.89
+
+python-3.12.4
+torch-2.4.1
+torchaudio-2.4.1
+torchvision-0.19.1
